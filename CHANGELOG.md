@@ -5,7 +5,7 @@
 格式基于 [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)，
 
 本项目遵循 [语义化版本控制](https://semver.org/spec/v2.0.0.html) 规范。
-## [Unreleased]
+## [1.0.0](https://github.com/Yeluzii/hm_package_test/releases/tag/1.0.0) - 2025-10-29
 
 ### Added
 - 初始化项目
