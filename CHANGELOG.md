@@ -6,6 +6,7 @@
 
 本项目遵循 [语义化版本控制](https://semver.org/spec/v2.0.0.html) 规范。
 ## [1.0.0](https://github.com/Yeluzii/hm_package_test/releases/tag/1.0.0) - 2025-10-29
+## [1.0.1](https://github.com/Yeluzii/hm_package_test/releases/tag/v1.0.1) - 2025-10-29
 
 ### Added
 - 初始化项目
