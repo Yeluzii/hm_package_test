@@ -4,7 +4,7 @@
  * @date: 2025/10/29
  */
 // 日期工具类
-class DateUtils {
+export class DateUtils {
   static format(date: Date, pattern: string = 'yyyy-MM-dd'): string {
     const year = date.getFullYear();
     const month = String(date.getMonth() + 1).padStart(2, '0');

@@ -4,7 +4,7 @@
  * @date: 2025/10/29
  */
 // 栈工具类
-class StackUtils<T> {
+export class StackUtils<T> {
   private items: T[] = [];
 
   push(item: T): void {

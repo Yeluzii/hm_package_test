@@ -4,7 +4,7 @@
  * @date: 2025/10/29
  */
 // 验证工具类
-class ValidationUtils {
+export class ValidationUtils {
   static isEmail(email: string): boolean {
     const regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     return regex.test(email);

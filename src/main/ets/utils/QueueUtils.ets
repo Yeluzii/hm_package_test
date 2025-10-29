@@ -4,7 +4,7 @@
  * @date: 2025/10/29
  */
 // 队列工具类
-class QueueUtils<T> {
+export class QueueUtils<T> {
   private items: T[] = [];
 
   enqueue(item: T): void {

@@ -4,7 +4,7 @@
  * @date: 2025/10/29
  */
 // 字符串工具类
-class StringUtils {
+export class StringUtils {
   static isEmpty(str: string): boolean {
     return str === null || str === undefined || str.trim() === '';
   }

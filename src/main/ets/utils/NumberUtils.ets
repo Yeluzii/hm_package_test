@@ -4,7 +4,7 @@
  * @date: 2025/10/29
  */
 // 数字工具类
-class NumberUtils {
+export class NumberUtils {
   static isEven(num: number): boolean {
     return num % 2 === 0;
   }

@@ -4,7 +4,7 @@
  * @date: 2025/10/29
  */
 // 随机工具类
-class RandomUtils {
+export class RandomUtils {
   static randomString(length: number = 10): string {
     const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
     let result = '';

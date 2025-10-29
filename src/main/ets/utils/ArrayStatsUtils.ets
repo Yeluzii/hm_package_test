@@ -4,7 +4,7 @@
  * @date: 2025/10/29
  */
 // 数组统计工具类
-class ArrayStatsUtils {
+export class ArrayStatsUtils {
   static sum(arr: number[]): number {
     return arr.reduce((a, b) => a + b, 0);
   }
