@@ -1,9 +1,30 @@
 {
-  "name": "utils",
+  "name": "@yeluzi666/utils",
   "version": "1.0.0",
-  "description": "Please describe the basic information.",
+  "description": "鸿蒙开发简便工具包",
   "main": "Index.ets",
-  "author": "",
+  "author": "Yeluzii",
   "license": "Apache-2.0",
-  "dependencies": {}
+  "keywords": [
+    "harmonyos",
+    "utility",
+  ],
+  "repository": "hhttps://github.com/Yeluzii/hm_package_test.git",
+  "homepage": "https://github.com/Yeluzii",
+  "bugs": {
+    "url": "https://github.com/Yeluzii/hm_package_test/issues",
+    "email": "2317413623@qq.com"
+  },
+  "engines": {
+    "harmonyos": ">=5.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "Index.ets",
+    "src/**/*",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ]
 }
