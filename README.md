@@ -2,6 +2,9 @@
 
 为鸿蒙应用开发提供常用工具类，简化开发流程，提高开发效率。
 
+## 安装
+`ohpm install @yeluzi666/utils`
+
 ## 工具类说明
 
 ### ArrayStatsUtils - 数组统计工具类
